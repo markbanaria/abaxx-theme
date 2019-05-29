@@ -1,0 +1,419 @@
+@font-face {
+  font-family: archia;
+  src: url("../assets/fonts/Archia-Regular.otf");
+  font-weight: 300; }
+@font-face {
+  font-family: archia;
+  src: url("../assets/fonts/Archia-Medium.otf");
+  font-weight: 500; }
+@font-face {
+  font-family: archia;
+  src: url("../assets/fonts/Archia-SemiBold.otf");
+  font-weight: 700; }
+.m4 {
+  margin: 4px; }
+
+.m8 {
+  margin: 8px; }
+
+.m12 {
+  margin: 12px; }
+
+.m16 {
+  margin: 16px; }
+
+.m24 {
+  margin: 24px; }
+
+.m32 {
+  margin: 32px; }
+
+.m40 {
+  margin: 40px; }
+
+.m48 {
+  margin: 48px; }
+
+.m56 {
+  margin: 56px; }
+
+.m64 {
+  margin: 64px; }
+
+.m72 {
+  margin: 72px; }
+
+.m80 {
+  margin: 80px; }
+
+.m88 {
+  margin: 88px; }
+
+.m96 {
+  margin: 96px; }
+
+.m112 {
+  margin: 112px; }
+
+.m120 {
+  margin: 120px; }
+
+.m128 {
+  margin: 128px; }
+
+.m136 {
+  margin: 136px; }
+
+.m144 {
+  margin: 144px; }
+
+.mt4 {
+  margin-top: 4px; }
+
+.mt8 {
+  margin-top: 8px; }
+
+.mt12 {
+  margin-top: 12px; }
+
+.mt16 {
+  margin-top: 16px; }
+
+.mt24 {
+  margin-top: 24px; }
+
+.mt32 {
+  margin-top: 32px; }
+
+.mt40 {
+  margin-top: 40px; }
+
+.mt48 {
+  margin-top: 48px; }
+
+.mt56 {
+  margin-top: 56px; }
+
+.mt64 {
+  margin-top: 64px; }
+
+.mt72 {
+  margin-top: 72px; }
+
+.mt80 {
+  margin-top: 80px; }
+
+.mt88 {
+  margin-top: 88px; }
+
+.mt96 {
+  margin-top: 96px; }
+
+.mt112 {
+  margin-top: 112px; }
+
+.mt120 {
+  margin-top: 120px; }
+
+.mt128 {
+  margin-top: 128px; }
+
+.mt136 {
+  margin-top: 136px; }
+
+.mt144 {
+  margin-top: 144px; }
+
+.p4 {
+  padding: 4px; }
+
+.p8 {
+  padding: 8px; }
+
+.p12 {
+  padding: 12px; }
+
+.p16 {
+  padding: 16px; }
+
+.p24 {
+  padding: 24px; }
+
+.p32 {
+  padding: 32px; }
+
+.p40 {
+  padding: 40px; }
+
+.p48 {
+  padding: 48px; }
+
+.p56 {
+  padding: 56px; }
+
+.p64 {
+  padding: 64px; }
+
+.p72 {
+  padding: 72px; }
+
+.p80 {
+  padding: 80px; }
+
+.p88 {
+  padding: 88px; }
+
+.p96 {
+  padding: 96px; }
+
+.p112 {
+  padding: 112px; }
+
+.p120 {
+  padding: 120px; }
+
+.p128 {
+  padding: 128px; }
+
+.p136 {
+  padding: 136px; }
+
+.p144 {
+  padding: 144px; }
+
+.pt4 {
+  padding-top: 4px; }
+
+.pt8 {
+  padding-top: 8px; }
+
+.pt12 {
+  padding-top: 12px; }
+
+.pt16 {
+  padding-top: 16px; }
+
+.pt24 {
+  padding-top: 24px; }
+
+.pt32 {
+  padding-top: 32px; }
+
+.pt40 {
+  padding-top: 40px; }
+
+.pt48 {
+  padding-top: 48px; }
+
+.pt56 {
+  padding-top: 56px; }
+
+.pt64 {
+  padding-top: 64px; }
+
+.pt72 {
+  padding-top: 72px; }
+
+.pt80 {
+  padding-top: 80px; }
+
+.pt88 {
+  padding-top: 88px; }
+
+.pt96 {
+  padding-top: 96px; }
+
+.pt112 {
+  padding-top: 112px; }
+
+.pt120 {
+  padding-top: 120px; }
+
+.pt128 {
+  padding-top: 128px; }
+
+.pt136 {
+  padding-top: 136px; }
+
+.pt144 {
+  padding-top: 144px; }
+
+.text-14 {
+  font-size: 14px;
+  line-height: 21px; }
+
+.text-14l {
+  font-size: 14px;
+  line-height: 24px; }
+
+.text-16 {
+  font-size: 16px;
+  line-height: 24px; }
+
+.text-21 {
+  font-size: 21px;
+  line-height: 28px; }
+
+.text-24 {
+  font-size: 24px;
+  line-height: 32px; }
+
+.text-32 {
+  font-size: 32px;
+  line-height: 40px; }
+
+.text-40 {
+  font-size: 40px;
+  line-height: 48px; }
+
+.text-48 {
+  font-size: 48px;
+  line-height: 56px; }
+
+.text-56 {
+  font-size: 56px;
+  line-height: 64px; }
+
+.text-64 {
+  font-size: 64px;
+  line-height: 80px; }
+
+.text-white {
+  color: white; }
+
+.text-brand-500 {
+  color: #F84C60; }
+
+.text-uppercase {
+  text-transform: uppercase; }
+
+html, body {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: #2F3A4F; }
+
+html, body, section, div, h1, h2, h3, h4, h5, a, p, .btn {
+  color: white;
+  font-family: "avenir", "sans-serif"; }
+
+html, body, section, div, h5, a, p {
+  font-size: 14px;
+  line-height: 21px; }
+
+h1 {
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 500; }
+
+ul, li {
+  margin: 0;
+  padding: 0; }
+
+.border {
+  border: 1px solid rgba(220, 220, 220, 0.3); }
+
+.sxn-full {
+  height: 100vh; }
+
+.banner-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%; }
+
+.bg-fixed {
+  background-attachment: fixed; }
+
+.text-white {
+  color: white; }
+
+.pt96 {
+  padding-top: 96px; }
+
+.pb96 {
+  padding-bottom: 96px; }
+
+.btn {
+  border-radius: 48px;
+  font-size: 14px;
+  line-height: 44px;
+  vertical-align: middle;
+  padding: 0 24px;
+  font-weight: 800; }
+  .btn:hover {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.08);
+    border: 1xp solid white; }
+
+.btn-ghost {
+  background-color: transparent;
+  border: 1px solid rgba(220, 220, 220, 0.3); }
+  .btn-ghost:hover {
+    border-color: #dcdcdc; }
+
+.btn-buying {
+  background-color: #F84C60;
+  border: none; }
+  .btn-buying:hover {
+    background-color: rgba(248, 76, 96, 0.7); }
+
+.icon-button {
+  border-radius: 48px;
+  height: 44px;
+  width: 44px;
+  font-size: 24px;
+  line-height: 42px;
+  vertical-align: middle;
+  padding: 0;
+  text-align: center;
+  transition: 0.3s; }
+  .icon-button:hover {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.08); }
+
+.icon-button-ghost {
+  background-color: transparent;
+  border: 1px solid rgba(220, 220, 220, 0.3); }
+  .icon-button-ghost:hover {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.08); }
+
+.pane {
+  border-radius: 12px;
+  border: 1px solid rgba(220, 220, 220, 0.3);
+  background-color: #232C3D; }
+
+input[type=text] {
+  height: 44px;
+  font-size: 14px;
+  color: white;
+  background-color: #2F3A4F;
+  border: 1px solid #727272;
+  border-radius: 2px;
+  transition: 0.2s;
+  box-sizing: border-box;
+  padding: 0 16px; }
+  input[type=text]::placeholder {
+    color: #a0a0a0; }
+  input[type=text]:active, input[type=text]:focus {
+    outline: none;
+    border: 2px solid #dcdcdc; }
+
+input[type=text].input-buying {
+  border: 1px solid #F84C60; }
+  input[type=text].input-buying:active, input[type=text].input-buying:focus {
+    border: 2px solid #F84C60; }
+
+input[type=text].input-selling {
+  border: 1px solid #30BA7A; }
+  input[type=text].input-selling:active, input[type=text].input-selling:focus {
+    border: 2px solid #30BA7A; }
+
+input[type=text].input-lots {
+  padding-right: 64px; }
+  input[type=text].input-lots::after {
+    content: "10,000 mmBTU/lot";
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */

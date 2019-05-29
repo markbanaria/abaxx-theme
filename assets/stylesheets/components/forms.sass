@@ -1,0 +1,38 @@
+input[type=text]
+  height: 44px
+  font-size: 14px
+  color: white
+  background-color: $bg-500
+  border: 1px solid $text-500
+  border-radius: 2px
+  transition: 0.2s
+  box-sizing: border-box
+  padding:  0 16px
+
+  &::placeholder
+    color: $text-300
+
+  &:active,
+  &:focus
+    outline: none
+    border: 2px solid $gray-700
+
+input[type=text].input-buying
+  border: 1px solid $buying
+
+  &:active,
+  &:focus
+    border: 2px solid $buying
+
+input[type=text].input-selling
+  border: 1px solid $selling
+
+  &:active,
+  &:focus
+    border: 2px solid $selling
+
+input[type=text].input-lots
+  padding-right: 64px
+  &::after
+    content: "10,000 mmBTU/lot"
+    color: white
